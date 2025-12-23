@@ -37,8 +37,8 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/N4si/DevSecOps-Project.git
-    ```
+    git clone https://github.com/Srinivas-git-cmd/Netflix-Project.git
+   
     
 
 **Step 3: Install Docker and Run the App Using a Container:**
@@ -755,4 +755,5 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 **Phase 7: Cleanup**
 
 1. **Cleanup AWS EC2 Instances:**
+
     - Terminate AWS EC2 instances that are no longer needed.
